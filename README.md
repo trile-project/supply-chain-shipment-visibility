@@ -27,7 +27,7 @@ Late shipments negatively impact customer experience, operational efficiency, an
 - Cost vs. service evaluation  
 
 ## Dashboard
-Dashboard visuals are available in the **/images** folder.
+Dashboard visuals are available in the **/Screenshots** folder.
 
 ## Key Insights
 - Certain carriers handle high shipment volume but demonstrate lower service reliability  
